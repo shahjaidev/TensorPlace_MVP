@@ -6,6 +6,9 @@ Jaidev Shah
 Tri Do
 Uzay Macar
 
+Buyer Portal and Seller portal-> Written in react.js
+Smart Contract (Transactions, reputation calculations)-> Solidity
+
 Blockchains and Applications, Fall 2019
 
 https://docs.google.com/document/d/1Y38q-gOd3_OpOm4WSkRajqSo30k67jjiD1BUYlL3f_o/edit?usp=sharing
