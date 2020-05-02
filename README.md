@@ -7,6 +7,7 @@ Tri Do
 Uzay Macar
 
 Buyer Portal and Seller portal-> Written in react.js
+
 Smart Contract (Transactions, reputation calculations)-> Solidity
 
 Blockchains and Applications, Fall 2019
